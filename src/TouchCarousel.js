@@ -1,5 +1,5 @@
 import React from 'react'
-import {Spring} from 'react-spring/renderprops'
+import {Spring} from 'react-spring/renderprops.cjs'
 import {
   range, clamp, getTouchPosition,
   getTouchId, omit, modCursor
